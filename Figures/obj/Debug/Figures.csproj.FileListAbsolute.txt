@@ -1,0 +1,14 @@
+C:\Users\swcat\source\repos\Figures\Figures\bin\Debug\Figures.exe.config
+C:\Users\swcat\source\repos\Figures\Figures\bin\Debug\Figures.exe
+C:\Users\swcat\source\repos\Figures\Figures\bin\Debug\Figures.pdb
+C:\Users\swcat\source\repos\Figures\Figures\obj\Debug\MainWindow.g.cs
+C:\Users\swcat\source\repos\Figures\Figures\obj\Debug\App.g.cs
+C:\Users\swcat\source\repos\Figures\Figures\obj\Debug\Figures_MarkupCompile.cache
+C:\Users\swcat\source\repos\Figures\Figures\obj\Debug\Figures_MarkupCompile.lref
+C:\Users\swcat\source\repos\Figures\Figures\obj\Debug\MainWindow.baml
+C:\Users\swcat\source\repos\Figures\Figures\obj\Debug\Figures.g.resources
+C:\Users\swcat\source\repos\Figures\Figures\obj\Debug\Figures.Properties.Resources.resources
+C:\Users\swcat\source\repos\Figures\Figures\obj\Debug\Figures.csproj.GenerateResource.cache
+C:\Users\swcat\source\repos\Figures\Figures\obj\Debug\Figures.csproj.CoreCompileInputs.cache
+C:\Users\swcat\source\repos\Figures\Figures\obj\Debug\Figures.exe
+C:\Users\swcat\source\repos\Figures\Figures\obj\Debug\Figures.pdb

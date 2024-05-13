@@ -1,0 +1,27 @@
+﻿<Window x:Class="Figures.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Figures"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid  Margin="50">
+        <StackPanel Orientation="Horizontal">
+            <Grid Name="MyGrid" Width="400">                
+            </Grid>
+            <StackPanel Orientation="Vertical" Width="300">
+                <Button Height="30" Width="100" Margin="5" Content="Круг" Click="Circle" HorizontalAlignment="Left"></Button>
+                <Button Height="30" Width="100" Margin="5" Content="Эллипс" Click="Ellipse" HorizontalAlignment="Left"></Button>
+                <Button Height="30" Width="100" Margin="5" Content="Труегольник" Click="Triangle" HorizontalAlignment="Left"></Button>
+                <Button Height="50" Width="100" Margin="5" Content="Квадрат" Click="Square" HorizontalAlignment="Left"></Button>
+                <Button Height="50" Width="100" Margin="5" Content="Четырехуголник" Click="Rectangle" HorizontalAlignment="Left"></Button>
+                <StackPanel Orientation="Horizontal">
+                    <Button Height="50" Width="100" Margin="5" Content="Многоугольник" Click="Figure"></Button>
+                    <Slider x:Name="MySlider" ValueChanged="SliderChanged" Minimum="3" Maximum="20" TickFrequency="1" IsSnapToTickEnabled="True" Value="5" Width="100" VerticalAlignment="Center"/>
+                    <TextBlock x:Name="CountTextBlock" VerticalAlignment="Center" Text="5"></TextBlock>
+                </StackPanel>               
+            </StackPanel>
+        </StackPanel>        
+    </Grid>
+</Window>
